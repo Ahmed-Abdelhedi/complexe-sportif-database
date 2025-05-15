@@ -75,8 +75,8 @@ Le fichier `testDB.sql` contient **30 requêtes SQL** prêtes à l’emploi, don
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/votre-username/sportcourt.git
-cd sportcourt
+git clone https://github.com/Ahmed-Abdelhedi/complexe-sportif-database
+cd complexe-sportif-database
 
 # Importer la base de données (Oracle)
 sqlplus username/password@//host:port/service_name @testDB.sql
